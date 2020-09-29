@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>ESTELLE THOMÉ</title>
+		<meta name="description" content="ESTELLE THOMÉ profile"
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+		<link href="https://fonts.googleapis.com/css2?family=Rokkitt:wght@200;400;800&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;1,200;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+
+	<body>
+		<div class="container">
+			<div class="card-white" id="Introduction">
+				<h1>ESTELLE THOMÉ</h1>
+				<img src="Images/Profil.jpg" width="350px" alt="ESTELLE THOMÉ">
+				<p>
+					<i>High energy result-oriented business student, looking for an opportunity in January 2020</i><br>
+					<br>
+					estelle.thome@gmail.com<br>
+					+33 7 60 76 43 29<br>
+					43 rue des Peupliers,<br>
+					78960 Voisins le Bretonneux (France)<br>
+				</p>
+				<a href="https://www.linkedin.com/in/estellethome/" class="btn-blue">Linkedin Profil</a>
+			</div>
+			
+			<div class="card-white">
+				<h2>WORK EXPERIENCE</h2>
+				<p>
+					<b>KEYVEO</b><br>
+					<b>Commercial Account Manager</b><br>
+					<i>Rouen | June 2020 - July 2020</i><br>
+					Augmented reality, virtual reality, 3D configuration, mobile applications<br>
+					<ul>
+						<li>Managed the new international business department: conducted B2B sales negociations, answered 2 bid solicitations<br></li>
+						<li>Participated in the creation of 'Keyveo Virtual Tour': developed the business model and marketing strategy<br></li>
+					</ul>
+					<br>
+
+					<b>CHANEL</b><br>
+					<b>Product Development Intern</b><br>
+					<i>Paris | July 2019 - Dec 2019</i><br>
+					<ul>
+						<li>Monitored the performance of Les Héritages, Les Eaux, Men's fragrances portfolio + Elaborated competition analyses<br></li>
+						<li>Optimised the process of data collection for Les Eaux collection<br></li>
+						<li>Participated in the creation of a 3-years strategy for Les Eaux collection, les Héritages and Men's fragrances<br></li>
+						<li>Implemented a CSR project whithin the company (Fill-up project)<br></li>
+					</ul>
+					<br>
+
+					<b>RICHEMONT</b><br>
+					<b>Data Analysis Intern</b><br>
+					<i>Paris | Jan 2019 - June 2019</i><br>
+					<ul>
+						<li>Cleaned, crunched & analysed data to support the business (tourism, distribution, pricing, benchmark...)<br></li>
+						<li>Coordinated a bimonthly Newsletter (2000 readers) - editing, InDesign formatting, proof reading & updates<br></li>
+						<li>Elaborated Ad-hoc analysis through digital tools (social media listening)<br>
+						</li>
+					</ul>
+					<br>
+
+					<b>AUDENCIA JUNIOR CONSEIL</b><br>
+					<b>Consultant and communication manager</b><br>
+					<i>Nantes | Sept 2017 - Dec 2018</i><br>
+					<ul>
+						<li>Commercial activity: closed deals with Key accounts - 20K€ HT turnover, Managed projects for Key Accounts (Véolia)<br></li>
+						<li>Management activity: managed 10 students working on client projects, recruited 15 project managers<br></li>
+						<li>Communication activity: wrote articles, organised 'Les clés pour entreprendre' an entrepreneurial event<br></li>
+					</ul>
+					<br>
+
+					<b>INTERNATIONAL PIANO FESTIVAL OF LA ROQUE</b><br>
+					<b>Press Relation Intern</b><br>
+					<i>La Roque d'Anthéron | June 2018 - Aug 2018</i><br>
+					<ul>
+						<li>Performed 2 live translations on radio "France Musique" of the interviews in English<br></li>
+						<li>Wrote press releases (3 per week), Managed logistics (interviews)<br></li>
+					</ul>
+				</p>
+			</div>
+
+			<div class="card-white">
+				<h2>ENTREPRENEURIAL EXPERIENCES</h2>
+				<p>
+					<b>PITCHER AT CES 2020</b><br>
+					<i>Las Vegas | 2020</i><br>
+					<ul>
+						<li>Pitched in sport management category for my entrepreneurial project<br></li>
+						<li>Attended Customer Electronic Show during a Learning Expedition centered around technological innovations<br>
+						<a href="https://youtu.be/nMl6oGbOvrk">CES Pitch</a><br>
+						<br>
+						</li>
+					</ul>
+					<b>WINNER OF THE AUDACE CONTEST</b><br>
+					<i>Nantes | 2018</i><br>
+					<ul>
+						<li>Won the Audace technological Entrepreneurial contest: 144 entrepreneurial projects contesting, 3 months, 3 rounds of selection, elaboration of a business plan and 2 pitches (15min each)</li>
+					</ul>
+				</p>
+			</div>
+
+			<div class="card-white">
+				<h2>EDUCATION</h2>
+				<p>
+					<b>AUDENCIA BUSINESS SCHOOL</b><br>
+					<i>Nantes | 2017 - 2021</i><br>
+					<ul>
+						<li>Specialisation in Digital Marketing (SEO, trafic aquisition, webanalyt</li>
+						<li>MSc in Management "Grande Ecole" program (finance, marketing, accounting, strategy, digital marketing) - English Track<br></li>
+					</ul>
+					<br>
+					<b>LE WAGON</b><br>
+					<i>Online | 2020</i><br>
+					<ul>
+						<li>Web Develoment (HTML, CSS)<br></li>
+					</ul>
+					<br>
+					<b>DEAKIN UNIVERSITY</b><br>
+					<i>Melbourne, Australia | 2020</i><br>
+					<ul>
+						<li>Business processes and technology, Economics, Business strategy (Top 20 / 200)<br></li>
+					</ul>
+					<br>
+					<b>NOTRE DAME DU GRANDCHAMP, INTÉGRALE</b><br>
+					<i>Versailles, Paris | 2014 - 2017</i><br>
+					<ul>
+						<li>Preparatory School<br></li>
+						<li>Economic specialisation<br></li>
+					</ul>
+					<br>
+					<b>LYCÉE SAINT FRANÇOIS D'ASSISE</b><br>
+					<i>Montigny le Bretonneux | 2011 - 2017</i><br>
+					<ul>
+						<li>Economic (ES) Baccalauréat obtained with honors ("Mention Très bien")</li>
+					</ul>
+				</p>
+			</div>
+
+			<div class="card-white">
+				<h2>SKILLS</h2>
+				<p>
+					<b>LANGUAGE</b><br>
+					<ul>
+						<li>French : Mother tongue<br></li>
+						<li>English : Bilingual<br>
+			          		<ul>
+				          		<i>Lived 4 years in England</i><br>
+				          		<i>Cambridge certificate of Proficiency in English</i><br>
+				          		<i>TOEIC 960/990</i><br>
+				          		<i>TOEFL 103/120</i><br>
+		          			</ul>
+						</li>
+						<li>German : Professional level<br>
+			          		<ul><i>Lived 2 years in Switzerland</i><br></ul>
+			          	</li>
+					</ul>
+					<br>
+					<b>SOFTWARE</b><br>
+					<ul>
+						<li>Mastery of Microsoft Office pack + VBA<br></li>
+						<li>HTML, CSS</li>
+						<li>Google Analytics for Beginners Certificate<br></li>
+						<li>InDesign<br></li>
+					</ul>
+					<br>
+					<b>OTHER</b><br>
+					<ul>
+						<li>Writing skills</li>
+						<li>Interpersonal skills<br></li>
+						<li>Autonomy</li>
+						<li>Rigour</li>
+						<li>Creativity</li>
+						<li>Proactiveness</li>
+					</ul>
+				</p>
+			</div>
+
+			<div class="card-white">
+				<h2>LEISURE INTERESTS</h2>
+				<p>
+					<b>PIANO</b><br>
+					<ul>
+						<li>For 14 years - Department level<br></li>
+						<li>2 shows per year during 6 years (300 spectators)<br></li>
+					</ul>
+					<br>
+					<b>"LA VOIX EN SCENE" ASSOCIATION</b><br>
+					<ul>
+						<li>Pop music singer - 2 shows (200 spectators)<br></li>
+					</ul>
+					<br>
+					<b>SPORTS</b><br>
+					<ul>
+						<li>Swimming - For 13 years <br></li>
+						<li>Ballet - For 13 year - 3 shows (1000 spectators)<br></li>
+					</ul>
+				</p>
+			</div>
+
+			<div class="card-white">
+				<h2>INTERNATIONAL EXPERIENCES</h2>
+				<p>
+					<b>ENGLAND</b><br>
+					<ul>
+						<li>Lived in Solihull from 2000 to 2004<br></li>
+					</ul>
+					<br>
+					<b>SWITZERLAND</b><br>
+					<ul>
+						<li>Lived in Bern from 2004 to 2006<br></li>
+					</ul>
+				</p>
+			</div>
+
+			<div class="card-white">
+				<h2>FOLLOW ME</h2>
+				<ul class="list-inline">
+					<li>
+						<a href="https://www.linkedin.com/in/estellethome/" target="_blank"><i class="fab fa-linkedin"></i>
+						</a>
+					</li>
+					<li>
+						<a href="https://www.facebook.com/estelle.thome/"target="_blank"><i class="fab fa-facebook-square"></i>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</body>
+
+</html>

@@ -1,0 +1,99 @@
+/*Colors and Fonts*/
+
+body {
+	background-color:#7e8a97;
+	color:rgb(50,50,50);
+	font-family: 'Rokkitt', serif;
+	font-size: 17px;
+}
+	
+h1{
+	font-family: 'Jost', sans-serif;
+	letter-spacing:5px;
+	font-size: 38px;
+	color:rgb(36,54,75);
+	font-weight: 600;
+	text-align:center;
+}
+
+h2{
+	font-family: 'Jost', sans-serif;
+	letter-spacing:5px;
+	font-size: 26px;
+	color:rgb(61,91,123);
+	font-weight: 800;
+	text-align:center;
+}
+
+a{
+	text-decoration: none;
+	color:rgb(36,54,75);
+	font-weight: bold;
+}
+a:hover {
+	color:rgb(126,138,151);
+}
+
+/*Divs*/
+.container{
+	width: 700px
+	margin: 40px auto;
+}
+
+@media (max-width: 760px){
+	.container{
+		width: 600px
+	}
+}
+@media (max-width: 500px){
+	.container{
+		width: 400px
+		}
+	img{
+		width: 250px
+	}
+}
+
+.card-white{
+	background-color: #EEEEEE;
+	padding:40px;
+	box-shadow:0px 10px 10px rgba(36,41,196,0.2);
+	border-radius: 4px;
+	margin:20px 30px;
+}
+
+#Introduction {
+	text-align: center;
+}
+
+.btn-blue{
+	background-color:rgb(36,54,75);
+	color: white;
+	padding: 1px 20px;
+	border-radius: 4px;
+}
+.btn-blue:hover{
+	background-color:rgb(126,138,151);
+	color: white;
+}
+
+.list-inline{
+	list-style: none;
+	padding-left: 0px; 
+	text-align:center;
+}
+.list-inline li{
+	display: inline;
+	padding: 10px;
+}
+.list-inline i{
+	font-size: 50px;
+	color:#70798C;
+}
+.list-inline i:hover{
+	color:rgb(36,54,75);
+}
+
+
+
+
